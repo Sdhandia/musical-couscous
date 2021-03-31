@@ -1,0 +1,21 @@
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 12;
+    cursor: pointer;
+}
+.links {
+    color: deeppink;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-family: 'Dancing Script', cursive;
+    display: inline;
+    font-size: 25px;
+
+
+}
